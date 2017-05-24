@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  project01
+//  project02
 //
 //  Created by LeeChan on 5/24/17.
 //  Copyright © 2017 MarkiiimarK. All rights reserved.
