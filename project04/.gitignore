@@ -1,0 +1,6 @@
+# Mac OS X
+.DS_Store
+
+# Xcode
+project04.xcodeproj/xcuserdata
+project04.xcodeproj/project.xcworkspace
